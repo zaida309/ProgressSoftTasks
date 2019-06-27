@@ -1,0 +1,89 @@
+.container {
+
+
+     min-width:900px;
+  height:20%;
+
+  }
+
+
+
+  .first-box {
+    width:300px;
+    float:left;
+    background: white;
+    height: 200%;
+    margin: 35px
+  }
+
+  .snackstyle {
+    stop-color: #ffffff;
+    padding-left: 5px;
+    padding-top: 5px;
+    background: white;
+    border-style: solid;
+    margin: 10%;
+    margin-right: 0%;
+    width: 70%;
+  }
+
+
+
+  .second-box {
+    width:300px;
+    height: 200%;
+    float:right;
+    background: white;
+    margin: 35px;
+    margin-right: 10%;
+
+  }
+
+  .button {
+      position: relative;
+    left:33%;
+    top: 10%;
+    width: 24%;
+    height: 40%;
+    margin-top:1%;
+}
+
+.subbutton{
+    margin-top:5%;
+    margin-left:4%;
+}
+
+
+  .statesstyle{
+
+    stop-color: #ffffff;
+    padding-left: 5px;
+    padding-top: 5px;
+    background: white;
+    border-style: solid;
+    margin: 10%;
+    margin-right: 0%;
+    height: 15%;
+    width: 70%;
+  }
+
+
+
+  footer {
+    width:50%;
+    margin-left: 25%;
+    float:left;
+    background: black;
+    height: 200%;
+    color: #ffffff;
+
+  }
+
+  .extraadd{
+      margin-left: 35%;
+  }
+
+  footer div {
+    padding:10%;
+
+  }
